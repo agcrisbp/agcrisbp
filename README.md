@@ -9,7 +9,7 @@
 ---
 
 ## Website
-- [BioLink](https://aghea.site)
+- [Landing Page](https://aghea.site)
 - [About](https://about.agcrisbp.my.id/)
 - [Blog](https://blog.agcrisbp.my.id)
 
