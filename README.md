@@ -1,6 +1,10 @@
 ## About
 - I am a programmer who aware of the tiny moments in a persons life that reveal greater truths...[Read More](https://about.agcrisbp.my.id/)
 
+<p align="center">
+    <img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/agcrisbp/56ea4fb1aa5d3764f0a79f8796124b96/raw/clone.json&logo=github'>
+</p>
+
 <p>
 <a href="https://twitter.com/intent/follow?screen_name=agcrisbp"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/agcrisbp"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.youtube.com/@agcrisbp"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://songs.agcrisbp.my.id/"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width=93 height=25 /></a> <a href="https://truthsocial.com/@agcrisbp"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Truth_Social_logo_2022.svg" width=98 height=25 /></a></p>
 
