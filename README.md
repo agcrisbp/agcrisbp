@@ -13,8 +13,8 @@
 ---
 
 ## Website
-- [Landing Page](https://aghea.site)
-- [About](https://about.agcrisbp.my.id/)
+- [Landing Page](https://m.agcrisbp.my.id/)
+- [About](https://agcrisbp.my.id/)
 - [Blog](https://blog.agcrisbp.my.id)
 
 ---
