@@ -6,7 +6,7 @@
 </p>
 
 <p>
-<a href="https://twitter.com/intent/follow?screen_name=crisminolog"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/agcrisbp"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.youtube.com/@agcrisbp"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://songs.agcrisbp.my.id/"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" width=93 height=25 /></a> </p>
+<a href="https://bsky.aghea.site"><img src="/bsky.svg" height=25></a> <a href="https://linkedin.aghea.site"><img src="/linkedin.png" height=25></a> <a href="https://contact aghea.site"><img src="/contact.png" height=25></a> <a href="https://email.aghea.site"><img src="/email.png" width=93 height=25 /></a> </p>
 
 <a href="https://bit.ly/redirect-spotify"><img src="https://spotify.aghea.site/api/view.svg?uid=8glrlrg13vyc6hu8tgw6sfvez&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ff73ff" /></a>
 
