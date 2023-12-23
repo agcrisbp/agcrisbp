@@ -6,7 +6,7 @@
 </p>
 
 <p>
-<a href="https://bsky.aghea.site"><img src="/bsky.svg" height=25></a> <a href="https://linkedin.aghea.site"><img src="/linkedin.png" height=25></a> <a href="https://contact aghea.site"><img src="/chat.png" height=25></a> <a href="https://email.aghea.site"><img src="/email.png" height=25 /></a> </p>
+<a href="https://bsky.aghea.site"><img src="/bsky.svg" height=25></a> — <a href="https://linkedin.aghea.site"><img src="/linkedin.png" height=25></a> — <a href="https://contact aghea.site"><img src="/chat.png" height=25></a> — <a href="https://email.aghea.site"><img src="/email.png" height=25 /></a> </p>
 
 <a href="https://bit.ly/redirect-spotify"><img src="https://spotify.aghea.site/api/view.svg?uid=8glrlrg13vyc6hu8tgw6sfvez&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ff73ff" /></a>
 
