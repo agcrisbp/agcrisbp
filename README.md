@@ -1,5 +1,5 @@
 ## About
-- I am a programmer who aware of the tiny moments in a persons life that reveal greater truths...[Read More](https://about.agcrisbp.my.id/)
+- I am a programmer who aware of the tiny moments in a persons life that reveal greater truths...[Read More](https://agcrisbp.my.id/)
 
 <p align="center">
     <img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/agcrisbp/56ea4fb1aa5d3764f0a79f8796124b96/raw/clone.json&logo=github'>
