@@ -6,14 +6,14 @@
 </p>
 
 <p>
-<a href="https://bsky.aghea.site"><img src="/bsky.svg" height=25></a> │ <a href="https://linkedin.aghea.site"><img src="/linkedin.png" height=25></a> │ <a href="https://contact.aghea.site"><img src="/chat.png" height=25></a> │ <a href="https://email.aghea.site"><img src="/email.png" height=25 /></a> </p>
+<a href="https://bsky.aghea.site"><img src="images/bsky.svg" height=25></a> │ <a href="https://linkedin.aghea.site"><img src="images/linkedin.svg" height=25></a> │ <a href="https://contact.aghea.site"><img src="images/chat.svg" height=25></a> │ <a href="https://email.aghea.site"><img src="images/email.svg" height=25 /></a> </p>
 
 <a href="https://bit.ly/redirect-spotify"><img src="https://spotify.aghea.site/api/view.svg?uid=8glrlrg13vyc6hu8tgw6sfvez&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ff73ff" /></a>
 
 ---
 
 ## Website
-- [Landing Page](https://m.agcrisbp.my.id/)
+- [Landing Page](https://bio.agcrisbp.my.id/)
 - [About](https://agcrisbp.my.id/)
 - [Blog](https://blog.agcrisbp.my.id)
 
@@ -29,7 +29,7 @@
 ## Support
 <a href="https://www.buymeacoffee.com/agcrisbp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 32px !important;width: 114px !important;" ></a>
 <a href="https://saweria.co/agcrisbp" target="_blank"><img src="https://bio.aghea.site/saweria-button.png" alt="Saweria" style="height: 30px !important;width: 114px !important;" ></a>
-<a href="https://github.com/sponsors/agcrisbp" target="_blank"><img src="/sponsor-badge.svg" alt="Github Sponsor" style="height: 30px !important;width: 114px !important;" ></a>
+<a href="https://github.com/sponsors/agcrisbp" target="_blank"><img src="images/sponsor-badge.svg" alt="Github Sponsor" style="height: 30px !important;width: 114px !important;" ></a>
 
 ---
 
@@ -37,6 +37,9 @@
 
 <p align="left">
   <a href="https://github.com/agcrisbp/ADLink"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agcrisbp&repo=ADLink&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg"></a>
+  
+<p align="left">
+  <a href="https://github.com/agcrisbp/ADPortfolio"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agcrisbp&repo=ADPortfolio&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg"></a>
   
   <a href="https://github.com/agcrisbp/ADResume"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=agcrisbp&repo=ADResume&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
   
