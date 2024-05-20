@@ -10,6 +10,8 @@
 
 <a href="https://agcrisbp.vercel.app/api/view.svg?uid=8glrlrg13vyc6hu8tgw6sfvez&redirect=true"><img src="https://agcrisbp.vercel.app/api/view.svg?uid=8glrlrg13vyc6hu8tgw6sfvez&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ff73ff" /></a>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/982268021143896064)](https://discord.com/users/982268021143896064)
+
 ---
 
 ## Website
