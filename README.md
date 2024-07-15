@@ -2,7 +2,7 @@
 - I am a programmer who aware of the tiny moments in a persons life that reveal greater truths...[Read More](https://aghea.biz.id/)
 
 <p align="center">
-    <img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/agcrisbp/56ea4fb1aa5d3764f0a79f8796124b96/raw/clone.json&logo=github'>
+    <img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/agcrisbp/f90babfbb76e325b96a7311a2fca2bfb/raw/c61e6459811ef37cdc69b1f4d32065904ffe835b/clone.json&logo=github'>
 </p>
 
 <p>
