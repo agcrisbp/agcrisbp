@@ -6,7 +6,7 @@
 </p>
 
 <p>
-<a href="https://bsky.aghea.biz.id"><img src="images/bsky.svg" height=25></a> │ <a href="https://aghea.biz.id/linkedin"><img src="images/linkedin.svg" height=25></a> │ <a href="https://aghea.biz.id/contact"><img src="images/chat.svg" height=25></a> │ <a href="https://aghea.biz.id/email"><img src="images/email.svg" height=25 /></a> </p>
+<a href="https://aghea.vercel.app/bsky"><img src="images/bsky.svg" height=25></img> │ <a href="https://aghea.vercel.app/linkedin"><img src="images/linkedin.svg" height=25></a> │ <a href="https://aghea.vercel.app/signal"><img src="images/chat.svg" height=25></img> │ <a href="https://aghea.vercel.app/email"><img src="images/email.svg" height=25 /></a> </p>
 
 <a href="https://agcrisbp.vercel.app/api/view.svg?uid=8glrlrg13vyc6hu8tgw6sfvez&redirect=true"><img src="https://agcrisbp.vercel.app/api/view.svg?uid=8glrlrg13vyc6hu8tgw6sfvez&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=ff73ff" /></a>
 
@@ -15,22 +15,21 @@
 ---
 
 ## Website
-- [Landing Page](https://bio.aghea.biz.id/)
-- [About](https://aghea.biz.id/)
-- [Blog](https://blog.aghea.biz.id)
+- [Landing Page](https://bio-aghea.vercel.app/)
+- [About](https://aghea.vercel.app/about)
+- [Blog](https://aghea.vercel.app/blog)
 
 ---
 
 ## Latest Blog Posts
-  - [Cara Install PHPMyAdmin Di Android Menggunakan Termux](https://blog.aghea.biz.id/posts/cara-install-phpmyadmin-di-android-menggunakan-termux)
-  - [How To Create LinkTree Clone](https://bit.ly/ADLink-Docs)
-#### ➡️ [More](https://blog.aghea.biz.id/).
+  - [Cara Install PHPMyAdmin Di Android Menggunakan Termux](https://aghea.vercel.app/blog/cara-install-phpmyadmin-di-android-menggunakan-termux)
+#### ➡️ [More](https://aghea.vercel.app/blog).
 
 ---
 
 ## Support
 <a href="https://www.buymeacoffee.com/agcrisbp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 32px !important;width: 114px !important;" ></a>
-<a href="https://saweria.co/agcrisbp" target="_blank"><img src="https://bio.aghea.biz.id/saweria-button.png" alt="Saweria" style="height: 30px !important;width: 114px !important;" ></a>
+<a href="https://saweria.co/agcrisbp" target="_blank"><img src="https://bio-aghea.vercel.app/saweria-button.png" alt="Saweria" style="height: 30px !important;width: 114px !important;" ></a>
 <a href="https://github.com/sponsors/agcrisbp" target="_blank"><img src="images/sponsor-badge.svg" alt="Github Sponsor" style="height: 30px !important;width: 114px !important;" ></a>
 
 ---
