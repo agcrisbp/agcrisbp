@@ -63,7 +63,9 @@
 
 <img src="https://u8views.com/api/v1/github/profiles/54905291/views/day-week-month-total-count.svg" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=agcrisbp&theme=transparent&hide_border=true" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=agcrisbp&theme=microsoft-dark&hide_border=true&locale=id" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agcrisbp&theme=blue-green" />
 
