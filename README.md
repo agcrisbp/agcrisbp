@@ -29,9 +29,9 @@
 ---
 
 ## Support
-<a href="https://www.buymeacoffee.com/agcrisbp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 32px !important;width: 114px !important;" ></a>
-<a href="https://saweria.co/agcrisbp" target="_blank"><img src="https://bio-aghea.vercel.app/saweria-button.png" alt="Saweria" style="height: 30px !important;width: 114px !important;" ></a>
-<a href="https://github.com/sponsors/agcrisbp" target="_blank"><img src="images/sponsor-badge.svg" alt="Github Sponsor" style="height: 30px !important;width: 114px !important;" ></a>
+<a href="https://www.buymeacoffee.com/agcrisbp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 32px !important;width: 114px !important;" /></a>
+<a href="https://saweria.co/agcrisbp" target="_blank"><img src="https://bio-aghea.vercel.app/saweria-button.png" alt="Saweria" style="height: 30px !important;width: 114px !important;" /></a>
+<a href="https://github.com/sponsors/agcrisbp" target="_blank"><img src="images/sponsor-badge.svg" alt="Github Sponsor" style="height: 30px !important;width: 114px !important;" /></a>
 
 ---
 
