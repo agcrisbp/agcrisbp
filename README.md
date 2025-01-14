@@ -4,7 +4,7 @@
 - I am a programmer who aware of the tiny moments in a persons life that reveal greater truths...[Read More](https://aghea.vercel.app/about)
 
 <p>
-    <img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/agcrisbp/f90babfbb76e325b96a7311a2fca2bfb/raw/c61e6459811ef37cdc69b1f4d32065904ffe835b/clone.json&logo=github'>
+    <img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/agcrisbp/f90babfbb76e325b96a7311a2fca2bfb/raw/c61e6459811ef37cdc69b1f4d32065904ffe835b/clone.json&logo=github' />
 </p>
 
 <p>
@@ -18,11 +18,12 @@
 ---
 
 ## Latest Blog Posts
-  - [Nikmatnya Judi Online](https://aghea.vercel.app/blog/nikmatnya-judi-online)
+  - [Analisis Penyebab Kebocoran Data Pemerintah Indonesia](http://disq.us/t/4sh9bcr)
 
-  - [Cara Install Kali Linux Menggunakan Termux Di Android](https://aghea.vercel.app/blog/cara-install-kali-linux-nethunter-di-android)
+  - [Nikmatnya Judi Online](http://disq.us/t/4saljnk)
 
-  - [Cara Install PHPMyAdmin Di Android Menggunakan Termux](https://aghea.vercel.app/blog/cara-install-phpmyadmin-di-android-menggunakan-termux)
+  - [Cara Install Kali Linux Menggunakan Termux Di Android](http://disq.us/t/4s90a92)
+
 #### ➡️ [More](https://aghea.vercel.app/blog).
 
 ---
@@ -37,18 +38,18 @@
 ## Open Source Projects
 
 <p>
-  <a href="https://github.com/agcrisbp/ADLink"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agcrisbp&repo=ADLink&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/agcrisbp/ADLink"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agcrisbp&repo=ADLink&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg" /></a>
   
 <p>
-  <a href="https://github.com/agcrisbp/ADPortfolio"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agcrisbp&repo=ADPortfolio&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/agcrisbp/ADPortfolio"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=agcrisbp&repo=ADPortfolio&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg" /></a>
   
-  <a href="https://github.com/agcrisbp/ADTify"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=agcrisbp&repo=ADTify&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/agcrisbp/ADTify"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=agcrisbp&repo=ADTify&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges" /></a>
   
-  <a href="https://github.com/agcrisbp/github-clone-count-api"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=agcrisbp&repo=github-clone-count-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/agcrisbp/github-clone-count-api"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=agcrisbp&repo=github-clone-count-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges" /></a>
   
-  <a href="https://github.com/agcrisbp/AD-CHARIS"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=agcrisbp&repo=AD-CHARIS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/agcrisbp/AD-CHARIS"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=agcrisbp&repo=AD-CHARIS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges" /></a>
   
-  <a href="https://github.com/agcrisbp/ADResume"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=agcrisbp&repo=ADResume&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/agcrisbp/ADResume"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=agcrisbp&repo=ADResume&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges" /></a>
 
 </p>
 
