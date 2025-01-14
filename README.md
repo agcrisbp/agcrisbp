@@ -1,3 +1,5 @@
+[![An image of @agcrisbp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agcrisbp)](https://holopin.io/@agcrisbp)
+
 ## About
 - I am a programmer who aware of the tiny moments in a persons life that reveal greater truths...[Read More](https://aghea.vercel.app/about)
 
@@ -64,8 +66,6 @@
 <img src="https://u8views.com/api/v1/github/profiles/54905291/views/day-week-month-total-count.svg" />
 
 <br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=agcrisbp&theme=microsoft-dark&hide_border=true&locale=id" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agcrisbp&theme=blue-green" />
 
