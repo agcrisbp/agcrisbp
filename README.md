@@ -1,7 +1,7 @@
 [![An image of @agcrisbp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agcrisbp)](https://holopin.io/@agcrisbp)
 
 ## About
-- I am a programmer who aware of the tiny moments in a persons life that reveal greater truths...[Read More](https://aghea.vercel.app/about)
+- Agcrismanto Budhi Praswastyka, also known as Cris or Aghea, has been a Web Developer and Cybersecurity professional since 2011, specializing in building secure web applications...[Read More](https://aghea.vercel.app/about)
 
 <p>
     <img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/agcrisbp/f90babfbb76e325b96a7311a2fca2bfb/raw/c61e6459811ef37cdc69b1f4d32065904ffe835b/clone.json&logo=github' />
@@ -18,11 +18,11 @@
 ---
 
 ## Latest Blog Posts
-  - [Analisis Penyebab Kebocoran Data Pemerintah Indonesia](http://disq.us/t/4sh9bcr)
+  - [Analisis Penyebab Kebocoran Data Pemerintah Indonesia](https://aghea.vercel.app/blog/analisis-penyebab-kebocoran-data-di-indonesia) ([English Version](https://aghea.vercel.app/blog/indonesia-data-leak-epidemic))
 
-  - [Nikmatnya Judi Online](http://disq.us/t/4saljnk)
+  - [Nikmatnya Judi Online](https://aghea.vercel.app/blog/nikmatnya-judi-online)
 
-  - [Cara Install Kali Linux Menggunakan Termux Di Android](http://disq.us/t/4s90a92)
+  - [Cara Install Kali Linux Menggunakan Termux Di Android](https://aghea.vercel.app/blog/cara-install-kali-linux-nethunter-di-android)
 
 #### ➡️ [More](https://aghea.vercel.app/blog).
 
