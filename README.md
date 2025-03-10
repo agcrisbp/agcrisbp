@@ -68,6 +68,8 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agcrisbp&theme=blue-green" />
+<img src="https://streak-stats.demolab.com?user=agcrisbp&theme=transparent" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=agcrisbp&theme=blue-green" />
+<br/><br/>
+
+<img src="https://api.githubtrends.io/user/svg/agcrisbp/repos?time_range=one_year&group=other&theme=synthwaves" />
